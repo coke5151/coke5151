@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chad. (侯竣奇)</h1>
 <h3 align="center">A CSEE student from Taiwan.</h3>
 
-- 🔭 I’m currently working on **gotrading**: a trading system built in Go.
+- 🔭 I’m currently working on **pytrading**: a trading system built in Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
