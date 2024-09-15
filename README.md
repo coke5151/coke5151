@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coke5151&label=Profile%20views&color=0e75b6&style=flat" alt="coke5151" /> </p>
 
-- 🔭 I’m currently working on **gotrading**: an algorithmic trading system built with go.
+- 🌱 I’m currently learning **Rust (with rustlings)**
 
 - 📝 I write articles on [https://blog.junqi.tw/](https://blog.junqi.tw/)
 
