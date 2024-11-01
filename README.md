@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coke5151&label=Profile%20views&color=0e75b6&style=flat" alt="coke5151" /> </p>
 
-- 🌱 I’m currently learning **Rust** [(My rustlings repo)](https://github.com/coke5151/rustlings)
+- 🌱 I’m currently learning **Arduino** [(EnvMonitorRealife Repo)](https://github.com/coke5151/EnvMonitorRealife)
 
 - 📝 I write articles on [https://blog.junqi.tw/](https://blog.junqi.tw/)
 
