@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Arduino** [(EnvMonitorRealife Repo)](https://github.com/coke5151/EnvMonitorRealife)
 
-- 📝 I write articles on [https://blog.junqi.tw/](https://blog.junqi.tw/)
+- 📝 I write articles on [https://blog.pytree.dev/](https://blog.pytree.dev/)
 
 - 📫 How to reach me **houjunqimail@gmail.com**
 
