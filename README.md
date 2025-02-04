@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coke5151&label=Profile%20views&color=0e75b6&style=flat" alt="coke5151" /> </p>
 
-- 🌱 I’m currently learning **Arduino** [(EnvMonitorRealife Repo)](https://github.com/coke5151/EnvMonitorRealife)
+- 🌱 I’m currently making **py2mql5** [(py2mql5 Repo)](https://github.com/coke5151/py2mql5), a Python package to link multiple MetaTrader 5 Terminals.
 
 - 📝 I write articles on [https://blog.pytree.dev/](https://blog.pytree.dev/)
 
@@ -14,7 +14,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=coke5151&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coke5151&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -57,8 +56,8 @@
   <a href="mailto:houjunqimail@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/@BinaryPulses" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=@BinaryPulses&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.youtube.com/@codefarmers" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=@codefarmers&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
 
