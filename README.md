@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coke5151&label=Profile%20views&color=0e75b6&style=flat" alt="coke5151" /> </p>
 
-- 🌱 I’m currently making **py2mql5** [(py2mql5 Repo)](https://github.com/coke5151/py2mql5), a Python package to link multiple MetaTrader 5 Terminals.
-
 - 📝 I write articles on [https://blog.pytree.dev/](https://blog.pytree.dev/)
 
 - 📫 How to reach me **houjunqimail@gmail.com**
