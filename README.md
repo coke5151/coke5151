@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coke5151&label=Profile%20views&color=0e75b6&style=flat" alt="coke5151" /> </p>
 
-- 📝 I write articles on [https://blog.pytree.dev/](https://blog.pytree.dev/)
+- 📝 I write articles on [https://blog.pytreedao.com/](https://blog.pytreedao.com/)
 
 - 📫 How to reach me **houjunqimail@gmail.com**
 
