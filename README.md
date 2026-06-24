@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pytreedao@gmail.com**
 
-- ⚡ Fun fact **I have learned at least six Chinese input methods**
+- ⚡ Fun fact: **I have learned at least six Chinese input methods**
 
 ###
 
