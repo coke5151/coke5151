@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [https://blog.pytreedao.com/](https://blog.pytreedao.com/)
 
-- 📫 How to reach me **houjunqimail@gmail.com**
+- 📫 How to reach me **pytreedao@gmail.com**
 
 - ⚡ Fun fact **I have learned at least six Chinese input methods**
 
